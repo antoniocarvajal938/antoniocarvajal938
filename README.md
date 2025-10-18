@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Antonio / @antoniocarvajal938]
+# 👋 Hi there, I'm Antonio Carvajal / @antoniocarvajal938
 
 🎯 **Software Developer focused on Mobile Development (Android – Kotlin & Jetpack Compose)**  
 💡 Also interested in **Web Development** and **Quality Assurance (QA)**  
@@ -10,38 +10,13 @@ I enjoy building clean, efficient, and scalable applications while continuously 
 ### 🛠️ Tech Stack
 
 **Mobile Development**  
-![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white) 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white) 
-![MVVM](https://img.shields.io/badge/MVVM-0F9D58?style=for-the-badge&logo=architecture&logoColor=white)  
-![Retrofit](https://img.shields.io/badge/Retrofit-FF6F00?style=for-the-badge&logo=retrofit&logoColor=white) 
-![Coil](https://img.shields.io/badge/Coil-03A9F4?style=for-the-badge&logo=coil&logoColor=white)  
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white) ![MVVM](https://img.shields.io/badge/MVVM-0F9D58?style=for-the-badge&logo=architecture&logoColor=white) ![Retrofit](https://img.shields.io/badge/Retrofit-FF6F00?style=for-the-badge&logo=retrofit&logoColor=white) ![Coil](https://img.shields.io/badge/Coil-03A9F4?style=for-the-badge&logo=coil&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Web Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & QA**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![TestRail](https://img.shields.io/badge/TestRail-00AEEF?style=for-the-badge&logo=testrail&logoColor=white) 
-![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=gitlab&logoColor=white)  
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TestRail](https://img.shields.io/badge/TestRail-00AEEF?style=for-the-badge&logo=testrail&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=gitlab&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ---
 
@@ -52,8 +27,15 @@ I enjoy building clean, efficient, and scalable applications while continuously 
 
 ---
 
+### 📂 Featured Projects
+- **[TaskMate](https://github.com/antoniocarvajal938/taskmate)** – Android app for task management using Jetpack Compose, MVVM & Firebase.  
+- **[Mini API REST](https://github.com/antoniocarvajal938/mini-api-rest)** – Node.js & Express API integrated with MySQL.  
+- **[Portfolio Web](https://github.com/antoniocarvajal938/portfolio-web)** – Personal portfolio using React, Astro & Tailwind CSS.  
+
+---
+
 ### 📫 Contact Me
 - Email: carvajalwk@gmail.com  
-- LinkedIn: [linkedin.com/in/antonio-carvajal-muñoz-21b27a182/](#)  
+- LinkedIn: [Antonio Carvajal](https://www.linkedin.com/in/antonio-carvajal-mu%C3%B1oz-21b27a182/)  
 
-⭐ Take a look at my work and let’s build something awesome together!
+⭐ Take a look at my work and let's build something awesome together!
