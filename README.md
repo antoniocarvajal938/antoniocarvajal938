@@ -27,13 +27,6 @@ I enjoy building clean, efficient, and scalable applications while continuously 
 
 ---
 
-### 📂 Featured Projects
-- **[TaskMate](https://github.com/antoniocarvajal938/taskmate)** – Android app for task management using Jetpack Compose, MVVM & Firebase.  
-- **[Mini API REST](https://github.com/antoniocarvajal938/mini-api-rest)** – Node.js & Express API integrated with MySQL.  
-- **[Portfolio Web](https://github.com/antoniocarvajal938/portfolio-web)** – Personal portfolio using React, Astro & Tailwind CSS.  
-
----
-
 ### 📫 Contact Me
 - Email: carvajalwk@gmail.com  
 - LinkedIn: [Antonio Carvajal](https://www.linkedin.com/in/antonio-carvajal-mu%C3%B1oz-21b27a182/)  
